@@ -1,0 +1,205 @@
+body{
+    margin:auto
+/* Header Css */  
+}
+#header{
+    height: 60px;
+    background-color:#de937c ;
+}
+#icon{
+    margin-left: 1%;
+    margin-top: -1%;
+    position: absolute;
+    color:#ffffff;
+}
+#social{
+    float: right;
+    margin-right:1%;
+    margin-top: .5%;
+}
+a{
+    text-decoration: none;
+}
+.slogo{
+    height: 40px;
+    width: 40px;
+}
+/* Listing-page Css */
+#listing-page{
+    width: 100%;
+    display: inline-block;
+    background-color:#dab7b3c7;
+}
+#heading{
+    margin-left: 45%;
+    margin-top:3%;
+    font-size:35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    color:#de314f;
+}
+/* Filter Css */
+#filter{
+    height: 430px;
+    width: 18%;
+    margin-top:4.5%;
+    margin-left: 10%;
+    position: absolute;
+    background-color:#fff3e0;
+}
+#filter1{
+    height: 38px;
+    width: 136px;
+    margin-left: 26%;
+    margin-top: 8%;
+    position:absolute;
+    background-color:#de937c ;  
+}
+#filter1 > span{
+    margin-left: 24%;
+    margin-top: -12%;
+    position:absolute;
+    color: black;
+}
+#location{
+    margin-left: 26%;
+    margin-top: 26%;
+    position:absolute;
+    color: black;
+    font-size:21px;
+}
+#dropdown{
+    height: 46px;
+    width: 71%;
+    margin-top:38%;
+    margin-left: 18%;
+    position: absolute;   
+}
+select{
+    height:39px;
+    width: 91%;
+    font-size:15px;
+    background-color:#de937c;
+}
+#cuisine{
+    margin-left: 26%;
+    margin-top: 56%;
+    position:absolute;
+    color: black;
+    font-size:21px;
+}
+#dropdown1{
+    height: 46px;
+    width: 84%;
+    margin-top:68%;
+    margin-left: 11%;
+    position: absolute; 
+}
+.selectCuisine{
+    height:42px;
+    width: 91%;
+    font-size:15px;
+    background-color:#de937c;
+}
+#sort{
+    margin-left: 38%;
+    margin-top: 87%;
+    position:absolute;
+    color: black;
+    font-size:21px;       
+}
+#dropdown2{
+    height: 46px;
+    width: 71%;
+    margin-top:99%;
+    margin-left: 23%;
+    position: absolute; 
+}
+.sortBy{
+    height:42px;
+    width: 77%;
+    font-size:15px;
+    background-color:#de937c;
+}
+#cost{
+    margin-left: 29%;
+    margin-top: 118%;
+    position:absolute;
+    color: black;
+    font-size:21px;
+}
+#dropdown3{
+    height: 46px;
+    width: 80%;
+    margin-top:131%;
+    margin-left: 13%;
+    position: absolute; 
+}
+.costforTwo{
+    height:42px;
+    width: 92%;
+    font-size:15px;
+    background-color:#de937c;
+}
+/* Menu Css */
+#menu{
+    height: 700px;
+    width: 61%;
+    margin-top:3%;
+    margin-left: 30%;
+    background-color:
+}
+.tilecontainer{
+    height: 184px;
+    width: 38%;
+    float: left;
+    margin-top: 2.5%;
+    margin-left: 11%;
+    box-shadow: 10px 20px 10px gray;
+
+
+
+}
+.tilecomponent1{
+    width:50%;
+    float:left;
+    height:180px;
+}
+.tilecomponent1 >img{
+    width: 105%;
+    height:184px;
+    background-color: #ffffff;
+}
+.tilecomponent2{
+    width:45%;
+    float:left;
+    height:180px;
+    margin-left:5%;
+    margin-top: 3%;
+}
+.componentheading{
+    color:#de314f;
+    font-size: 25px;
+}
+.componentsubheading{
+    color:gray;
+    font-size: 19px;
+}
+.star{
+margin-top:7%;
+}
+.checked{
+    color:yellow;
+}
+.price{
+    color:gray;
+    font-size: 19px;
+    margin-top:2%;  
+}
+.cart{
+    height: 23px;
+    width: 84px;
+    margin-left: .4%;
+    margin-top: .4%;
+    background-color:white;  
+}
